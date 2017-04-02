@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kjaganmohan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/Users/kjaganmohan/AndroidStudioProjects/MovieApplication/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0-360e4babdb1f3e3848870854d8bcc9c0fbc7509e.jar" />
+    </item>
+    <item
+        jar="/Users/kjaganmohan/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/kjaganmohan/AndroidStudioProjects/MovieApplication/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-817b6c57306359e47a694d8e60d1ca99cb295693.jar" />
+    </item>
+    <item
+        jar="/Users/kjaganmohan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/Users/kjaganmohan/AndroidStudioProjects/MovieApplication/app/build/intermediates/pre-dexed/debug/okio-1.4.0-bf334adeda89339a49977014b4d5b90b46c10d2f.jar" />
+    </item>
+    <item
+        jar="/Users/kjaganmohan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/kjaganmohan/AndroidStudioProjects/MovieApplication/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-dbc3252f59f5474dd81e130f19881a34174737c7.jar" />
+    </item>
+    <item
+        jar="/Users/kjaganmohan/AndroidStudioProjects/MovieApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/kjaganmohan/AndroidStudioProjects/MovieApplication/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-25311442175b8f8992c556c492775f73a0e5b9cd.jar" />
+    </item>
+    <item
+        jar="/Users/kjaganmohan/AndroidStudioProjects/MovieApplication/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="/Users/kjaganmohan/AndroidStudioProjects/MovieApplication/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi-d57e4f91ce0476e52a65f6b6159e05bb374e3c3d.jar" />
+    </item>
+    <item
+        jar="/Users/kjaganmohan/AndroidStudioProjects/MovieApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/kjaganmohan/AndroidStudioProjects/MovieApplication/app/build/intermediates/pre-dexed/debug/classes-1cdd8b930ce33e18e07a73ee62537fdc71e1c286.jar" />
+    </item>
+    <item
+        jar="/Users/kjaganmohan/AndroidStudioProjects/MovieApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/kjaganmohan/AndroidStudioProjects/MovieApplication/app/build/intermediates/pre-dexed/debug/classes-5203cd5db9b61a13d89c39247f9c5862f5eb5ca3.jar" />
+    </item>
+
+</items>
